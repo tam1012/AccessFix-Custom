@@ -1,0 +1,35 @@
+{
+  "ProxyPort": 18080,
+  "SplitMode": 3,
+  "IncludeSteamGames": true,
+  "EnablePubgDirect443": false,
+  "MinimizeToTrayOnClose": true,
+  "AutoEnableOnLaunch": true,
+  "Domains": [
+    {
+      "Domain": "linkedin.com",
+      "Enabled": true,
+      "Group": "LinkedIn"
+    },
+    {
+      "Domain": "licdn.com",
+      "Enabled": true,
+      "Group": "LinkedIn (Ảnh/CSS/JS)"
+    },
+    {
+      "Domain": "lnkd.in",
+      "Enabled": true,
+      "Group": "LinkedIn (Link rút gọn)"
+    },
+    {
+      "Domain": "quora.com",
+      "Enabled": true,
+      "Group": "Quora"
+    },
+    {
+      "Domain": "quoracdn.net",
+      "Enabled": true,
+      "Group": "Quora (Ảnh/CDN)"
+    }
+  ]
+}

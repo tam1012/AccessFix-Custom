@@ -1,0 +1,8 @@
+src/bin/
+src/obj/
+*.pdb
+*.user
+*.vs/
+AccessFix.proxy-backup.json
+.af_write_test_*.tmp
+_verify_*.png
